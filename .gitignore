@@ -1,0 +1,30 @@
+# .NET / tModLoader build output
+[Bb]in/
+[Oo]bj/
+*.tmod
+/compile_temp/
+
+# Local editor state (keep shareable VS Code tasks and launch configurations)
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+/.vscode/settings.json
+
+# Generated previews and temporary working files
+/output/
+/tmp/
+*.log
+*.tmp
+*.bak
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

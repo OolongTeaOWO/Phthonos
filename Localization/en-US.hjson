@@ -1,0 +1,12 @@
+Mods: {
+	Phthonos: {
+		Keybinds: {
+			HeavyAttack.DisplayName: Heavy Attack
+			Roll.DisplayName: Roll
+			Offhand.DisplayName: Offhand/Parry
+			Crouch.DisplayName: Crouch
+		}
+
+		UI.Offhand: Offhand
+	}
+}

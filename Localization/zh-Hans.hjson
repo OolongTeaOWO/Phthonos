@@ -1,0 +1,12 @@
+Mods: {
+	Phthonos: {
+		Keybinds: {
+			HeavyAttack.DisplayName: 重攻击
+			Roll.DisplayName: 翻滚
+			Offhand.DisplayName: 副手/格挡
+			Crouch.DisplayName: 潜行
+		}
+
+		UI.Offhand: 副手/盾牌
+	}
+}
